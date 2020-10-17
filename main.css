@@ -202,6 +202,10 @@ body h3 {
         width: 100%;
         height: 120px;
     }
+    .number {
+        padding-top: none;
+        color: rgb(104, 28, 33);
+    }
     .logo {
         position: absolute;
         left: 10px;
